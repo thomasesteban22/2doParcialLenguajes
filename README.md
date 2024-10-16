@@ -1,19 +1,29 @@
-# Segundo parcial Lenguajes de programación y transducción
+# Segundo Parcial: Lenguajes de Programación y Transducción
 
-Para correr cada uno de los programas, es necesario descargar cada uno.
+Este repositorio contiene los programas correspondientes al segundo parcial de la materia de Lenguajes de Programación y Transducción.
 
-Dentro de cada carpeta correspondiente a cada punto del parcial estan las instrucciones en un readme.md para ejecutar cada programa en particular.
+## Requisitos
 
-Es importante tener instalado Python3 y ANTLR4.
+Para ejecutar cada uno de los programas, es necesario tener instalados:
 
-Usualmente es necesario crear un entorno virtual si usted no tiene uno configurado.
->python3 -m venv .venv
+- **Python 3**
+- **ANTLR 4**
 
->source .venv/bin/actívate
+Además, cada programa cuenta con un archivo `requirements.txt` con las dependencias necesarias.
 
-Cada programa cuenta con un requirements.txt, es importante ejecutar desde la carpeta en cada uno de los 3 puntos:
->pip install -r requirements.txt
+```bash
+pip install -r requierements.txt
 
+```
 
-A continuación siga los README.md de cada punto en particular.
+## Entorno virtual
 
+Es recomendable crear un entorno virtual si no tiene uno configurado. Para crear y activar un entorno virtual, siga los siguientes pasos:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+
+```
+
+A continuación siga los pasos individuales de cada README.md en cada punto del parcial.
