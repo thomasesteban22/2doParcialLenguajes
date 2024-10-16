@@ -15,3 +15,5 @@ Cada programa cuenta con un requirements.txt, es importante ejecutar desde la ca
 >pip install -r requirements.txt
 
 
+A continuación siga los README.md de cada punto en particular.
+
