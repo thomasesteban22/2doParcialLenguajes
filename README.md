@@ -1,1 +1,1 @@
-# 2doParcialLenguajes
+# Segundo parcial Lenguajes de programación y transducción
